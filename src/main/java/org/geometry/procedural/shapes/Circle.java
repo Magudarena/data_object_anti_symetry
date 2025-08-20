@@ -1,4 +1,4 @@
-package org.geomerty.procedural.shapes;
+package org.geometry.procedural.shapes;
 
 public class Circle {
     public Point center;
